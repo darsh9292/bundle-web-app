@@ -1,0 +1,20 @@
+{
+    "bundles": [
+        {
+            "type": "css",
+            "name": "static-combined.css",
+            "files": [
+                "custom.css",
+                "style.css"
+            ]
+        },
+        {
+            "type": "js",
+            "name": "static-combined.js",
+            "files": [
+                "custom.js",
+                "script.js"
+            ]
+        }
+    ]
+}

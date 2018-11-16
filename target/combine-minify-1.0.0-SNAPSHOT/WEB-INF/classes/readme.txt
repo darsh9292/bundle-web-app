@@ -1,0 +1,1 @@
+http://samaxes.github.io/minify-maven-plugin/
